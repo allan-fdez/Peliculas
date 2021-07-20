@@ -1,4 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="peliculas" group-title="Peliculas", ¿Qué pasó ayer?
+https://www.googleapis.com/drive/v3/files/1VT_nP80W-VoCVhbGmA-DtalUocqwFVUH?alt=media&key=AIzaSyDBEVONfXPt4hu58kamaZH745ZEfVi2zKU
+
+#EXTINF:-1 tvg-id="peliculas" group-title="Peliculas", ¿Qué pasó ayer?
 https://www.googleapis.com/drive/v3/files/1VT_nP80W-VoCVhbGmA-DtalUocqwFVUH?alt=media&key=AIzaSyDBEVONfXPt4hu58kamaZH745ZEfVi2zKU.m3u
