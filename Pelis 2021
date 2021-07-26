@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 type="video" group-title="Netflix", ¿Qué pasó ayer?
-https://www.googleapis.com/drive/v3/files/1VT_nP80W-VoCVhbGmA-DtalUocqwFVUH?alt=media&key=AIzaSyDBEVONfXPt4hu58kamaZH745ZEfVi2zKU
+#EXTINF:0 type="video" group-title="Netflix", ¿Qué pasó ayer?
+https://www.googleapis.com/drive/v3/files/1VT_nP80W-VoCVhbGmA-DtalUocqwFVUH?alt=media&key=AIzaSyDAqXwfT-tdo3kTJp2j6H22RcXEszUI1ds
+
+#EXTINF:0 type="video" group-title="Prime", ¿Qué pasó ayer?
+https://www.googleapis.com/drive/v3/files/1VT_nP80W-VoCVhbGmA-DtalUocqwFVUH?alt=media&key=API_KEY=AIzaSyBmyb40nieivN10-OpBE8t12VtpUgLtj3w
