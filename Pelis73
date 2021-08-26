@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:0 type="video" group-title="HBO",Scary movie 4
+https://www.googleapis.com/drive/v3/files/1jq8Y87qCvXm6qJD6qv5QkEPoiIYv1nVM?alt=media&key=AIzaSyDJ3iJCzZFRZI2pi93FvlT-KU5vl-tLbKs
+
+#EXTINF:0 type="video" group-title="Netflix",Scary movie 5
+https://www.googleapis.com/drive/v3/files/1nTz3Y4YZKu8h90xn7gV-NYcfBP3gLpj6?alt=media&key=AIzaSyDJ3iJCzZFRZI2pi93FvlT-KU5vl-tLbKs
+
+
